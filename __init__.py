@@ -15,3 +15,4 @@ class hxy(Person):
         print(f'{self.name}正在跳舞')
     def sing(self):
         print(f'{self.name}正在唱歌')
+        print('这是一行回滚之后就没有的代码')
